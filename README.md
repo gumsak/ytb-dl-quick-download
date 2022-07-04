@@ -22,3 +22,7 @@ You can execute the script through a Unix shell (on windows you can use the Bash
 The `start-dl` script only takes one argument, the link to the youtube video:
 
 `./start-dl.bash your_ytb_link`
+
+## TO-DO
+
+- [ ] Add links to referenced programs
